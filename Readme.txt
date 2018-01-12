@@ -11,3 +11,7 @@ Creating a new branch is quick.1
 =======
 it is test branch.
 >>>>>>> test
+
+add merge
+
+
